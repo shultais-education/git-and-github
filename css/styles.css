@@ -2,4 +2,13 @@ body {
    font-size: 16px;
    font-family: "PT Sans";
    background-color: #F6F8FC;
+   color: #2A2A2A;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: red;
 }
