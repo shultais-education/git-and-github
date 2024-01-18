@@ -4,3 +4,7 @@ body {
    background-color: #F6F8FC;
    color: #2A2A2A;
 }
+
+p {
+    margin-bottom: 20px;
+}
