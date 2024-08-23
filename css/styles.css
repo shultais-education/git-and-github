@@ -1,14 +1,15 @@
 body {
    font-size: 16px;
    font-family: "PT Sans";
-   background-color: #F6F8FC;
+   background-color: BLUE;
    color: red;
 }
 
 p {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 h1 {
-    color: blue;
+    color: BLUE;
+    font-size: 20px;
 }
