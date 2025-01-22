@@ -2,13 +2,13 @@ body {
    font-size: 16px;
    font-family: "PT Sans";
    background-color: #F6F8FC;
-   color: #2A2A2A;
+   color: RED;
 }
 
 p {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 h1 {
-    color: red;
+    color: RED;
 }
