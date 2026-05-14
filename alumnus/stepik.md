@@ -5,3 +5,4 @@
 ## Выпускники
 
 1. Python Student (https://stepik.org/users/1263979448/profile)
+2. Konstantin Korepin (https://stepik.org/users/917652458/profile)
