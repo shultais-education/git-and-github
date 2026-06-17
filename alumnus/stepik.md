@@ -6,3 +6,4 @@
 
 1. Python Student (https://stepik.org/users/1263979448/profile)
 2. Konstantin Korepin (https://stepik.org/users/917652458/profile)
+3. Denis Baidikov (https://stepik.org/users/55634717/profile)
