@@ -9,3 +9,4 @@
 3. Denis Baidikov (https://stepik.org/users/55634717/profile)
 4. Антонина Васильева (https://stepik.org/users/574936400/profile)
 5. Роман Юрченко (https://stepik.org/users/181046132/profile)
+6. Daria Abroskina (https://stepik.org/users/49247445/profile)
